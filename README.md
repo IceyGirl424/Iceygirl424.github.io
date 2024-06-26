@@ -5,3 +5,4 @@ Hello there. Lena Munad is a third-year undergraduate student, currently doing r
 Some of her research interests include *artificial intelligence*, *deep learning*, *natural language processing*, *neural networks*, *data visualization/modelling*.
 
 ![Portrait of her](port.jpeg)
+<img src="port.jpeg" alt="Portrait of her" width="200"/>
